@@ -1,5 +1,5 @@
-                                                      NAME: PRIYANGHA
-                                                      REGNO:212223040157
+                                                            NAME: PRIYANGHA
+                                                            REGNO:212223040157
                                                       
                                                       
 
