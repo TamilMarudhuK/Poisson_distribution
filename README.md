@@ -1,3 +1,7 @@
+                                   NAME: PRIYANGHA
+                                   REGNO:212223040157
+
+
 # Fitting Poisson  distribution
 # Aim : 
 
